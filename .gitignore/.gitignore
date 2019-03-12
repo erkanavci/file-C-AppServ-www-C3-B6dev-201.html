@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="UTF-8">
+	<title> Sıfırdan İleri Seviyeye PHP Web Programlama (HTML+PDO+MySQL) </title>
+	<meta name="description" content="Kaptan'ın Bloğu.">
+	<meta name="keywords" content="test, deneme, ödev, vs vs...">
+	<meta name="author" content="ErAv">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+	
+	<center>
+		<div align="center">
+		<h2> Sıfırdan İleri Seviyeye PHP Web Programlama </h2>
+		<h1> (HTML+PDO+MySQL) </h1> <br><br>
+
+
+		<table width="charset"><p>Sıfırdan İleri Seviye Web Programlama. (HTML + PHP + PDO + MySQL) <br>
+		kurslarını kısa bir süre için size özel 400 TL yerine 50 TL'ye satın alabilirsiniz. </p>
+
+		<b> Kupon Linki: </b>
+		<a href="https://www.udemy.com/" target="blank"> https://www.udemy.com/</a>
+
+	</table>
+		
+		</div>
+	</center>    <br> <br>
+
+	<div align="center">
+	<a href=" https://www.udemy.com/" target="blank"> <img src="php_logo.png"> </a>
+</div> <br><br>
+
+
+
+</body>
+</html>
